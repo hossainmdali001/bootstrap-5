@@ -1,0 +1,24 @@
+.box{
+    height: 100px;
+    background-color: blueviolet;
+    margin-bottom: 30px;
+}
+.mh-400{
+    height: 400px;
+}
+.ayan{
+    margin-bottom: 40px;
+}
+.haf{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: brown;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.u-name:focus{
+    box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 25%);
+}
+.u-message{
+    resize: none;
+}
